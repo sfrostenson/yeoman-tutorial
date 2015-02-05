@@ -1,3 +1,3 @@
 # yeoman-tutorial
 
-work on this tutorial: http://yeoman.io/codelab.html
+Work on this tutorial: http://yeoman.io/codelab.html
